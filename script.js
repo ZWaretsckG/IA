@@ -6,14 +6,32 @@ const textoResultado = document.querySelector("texto-resultado");
 const perguntas = [
     {
         enunciado: "Pergunta 1",
-        alternativas:
-        
-        
-        ["Alternativa1","Alternativa2"]
+        alternativas:{
+        }
+    texto:"Alternativa1",
+    afirmaçao; 'afirmaçao1'
+],
+[
+  texto:"Alternativa2",.
+ afirmaçao:'afirmaçao2'
+
+]
+
+
+        ["Alternativa1",c]
     },
     {
-        enunciado: "Pergunta 2",
-        alternativas: ["Alternativa1","Alternativa2"]
+     enunciado: "Pergunta 1",
+        alternativas:{
+        }
+    texto:"Alternativa1",
+    afirmaçao; 'afirmaçao1'
+],
+[
+  texto:"Alternativa2"
+ afirmaçao:'afirmaçao2'
+
+]
     }
 ];
 
